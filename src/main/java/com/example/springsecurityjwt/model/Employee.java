@@ -34,7 +34,7 @@ public class Employee {
 	
 	public Employee() {
 		super();
-	    System.out.println("It is for test");
+	    System.out.println("It is for testing");
 	}
 
 	
